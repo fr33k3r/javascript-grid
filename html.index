@@ -5,10 +5,53 @@
 
 	<title>JavaScript Grid</title>
 
-	<link rel="stylesheet" href="css/style.css?v=1.0">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
+	<div class="grid">
+
+		<div class="row">
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+		</div>
+
+		<div class="row">
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+		</div>
+
+		<div class="row">
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+		</div>
+
+		<div class="row">
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+		</div>
+
+		<div class="row">
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+			<div class="box"></div>
+		</div>
+
+	</div>
 
  	<script src="js/script.js"></script>
 </body>
